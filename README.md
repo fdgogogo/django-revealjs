@@ -14,15 +14,12 @@ django-1.4 - properly configured
 Install
 =======
 
-    <blockquote>
-        <p>
+    
         	1. git clone git@github.com:jsam/django-revealjs.git
 	2. copy the django-revealjs to your project and include the app in your settings.py
 	3. run: python manage.py collectstatic
 	4. include urls.py to your urls.py file [ url( r"^reveal/$", include("reveal.urls") ) ]
 	5. start server and goto to yourdomain.com/reveal
-	</p>
-    </blockquote>
 
 Whats next
 ===========
