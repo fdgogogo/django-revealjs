@@ -23,7 +23,11 @@ Install
 Whats next
 ===========
 
-Now you can easily create presentation using django templating engine and get max out of markdown. I'm not yet finished completly with this work. Plan is to integrate markdown with django, so presentations can be created more easily.
+Now you can easily create presentation using django templating engine and get max out of markdown. 
+
+TODO
+=====
+I'm not yet finished completly with this work. Plan is to integrate markdown with django, so presentations can be created more easily and create speaker notes inside django, so complete project will be unified.
 
 
 
