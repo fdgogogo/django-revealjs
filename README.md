@@ -23,8 +23,7 @@ Install
 Whats next
 ===========
 
-Now you can easily create presentation using django templating engine and get max out of markdown.
-
+Now you can easily create presentation using django templating engine and get max out of markdown. I'm not yet finished completly with this work. Plan is to integrate markdown with django, so presentations can be created more easily.
 
 
 
